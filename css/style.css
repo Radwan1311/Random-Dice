@@ -1,0 +1,57 @@
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Source Serif Pro', serif; */
+
+
+
+body{
+  background-color: #F5EDDC;
+  text-align: center;
+
+}
+
+h1{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h4{
+  color: #990000;
+}
+.welcome{
+  margin: 1% auto;
+}
+
+#result{
+  margin: 3% auto;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.player1{
+  width: 256px;
+  height: 256px;
+  margin:5% auto;
+  background-image: url(../images/dice1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.player2{
+  width: 256px;
+  height: 256px;
+  margin:5% auto;
+  background-image: url(../images/dice1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.vs{
+  margin: 35% auto;
+  font-size: 10rem;
+  font-weight: bold;
+  color: #990000;
+}
